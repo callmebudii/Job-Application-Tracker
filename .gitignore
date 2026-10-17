@@ -1,0 +1,26 @@
+# Compiled Java files and build output
+*.class
+out/
+bin/
+build/
+target/
+
+# Local IDE settings
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Local logs
+*.log
+
+# Local JDBC driver and credential files
+lib/*.jar
+.env
+.env.*
